@@ -81,7 +81,7 @@ Step11: click on debug and simulate using simulation as shown below
 ## Output screen shots of proteus  :
  
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
